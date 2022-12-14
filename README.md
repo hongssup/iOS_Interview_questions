@@ -8,7 +8,7 @@ iOS 기술 면접 질문 정리<br><br>
 - [Convenience init에 대하여](https://hongssup.tistory.com/466)
 - [Any와 AnyObject 비교 및 장단점](https://hongssup.tistory.com/470)
 - [Optional이란?](https://hongssup.tistory.com/460)
-- Subscripts
+- [Subscripts](https://hongssup.tistory.com/471)
 
 ## iOS
 - Bounds와 Frame의 차이점
