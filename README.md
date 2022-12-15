@@ -11,6 +11,6 @@ iOS 기술 면접 질문 정리<br><br>
 - [Subscripts](https://hongssup.tistory.com/471)
 
 ## iOS
-- Bounds와 Frame의 차이점
+- [Bounds와 Frame의 차이점](https://hongssup.tistory.com/474)
 
 <br><br>참고 : https://github.com/JeaSungLEE/iOSInterviewquestions
