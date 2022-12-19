@@ -8,7 +8,10 @@ iOS 기술 면접 질문 정리<br><br>
 - [Convenience init에 대하여](https://hongssup.tistory.com/466)
 - [Any와 AnyObject 비교 및 장단점](https://hongssup.tistory.com/470)
 - [Optional이란?](https://hongssup.tistory.com/460)
-- [Subscripts](https://hongssup.tistory.com/471)
+- [Subscripts란? + string은 subscript로 접근이 안되는 이유](https://hongssup.tistory.com/471)
+- Instance / static / class 메서드 비교
+- Delegate 패턴이란?
+- Singleton 패턴이란?
 
 ## iOS
 - [Bounds와 Frame의 차이점](https://hongssup.tistory.com/474)
