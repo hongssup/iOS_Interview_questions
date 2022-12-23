@@ -10,8 +10,8 @@ iOS 기술 면접 질문 정리<br><br>
 - [Optional이란?](https://hongssup.tistory.com/460)
 - [Subscripts란? + string은 subscript로 접근이 안되는 이유](https://hongssup.tistory.com/471)
 - [Instance / static / class 메서드 비교](https://hongssup.tistory.com/338)
-- Delegate 패턴이란?
-- Singleton 패턴이란?
+- [Delegate 패턴이란?](https://hongssup.tistory.com/479)
+- [Singleton 패턴이란?](https://hongssup.tistory.com/344)
 
 ## iOS
 - [Bounds와 Frame의 차이점](https://hongssup.tistory.com/474)
