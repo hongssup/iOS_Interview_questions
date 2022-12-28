@@ -12,8 +12,8 @@ iOS 기술 면접 질문 정리<br><br>
 - [Instance / static / class 메서드 비교](https://hongssup.tistory.com/338)
 - [Delegate 패턴이란?](https://hongssup.tistory.com/479)
 - [Singleton 패턴이란?](https://hongssup.tistory.com/344)
-- KVO 동작 방식에 대해 설명하시오.
-- Delegates와 Notification 방식의 차이점에 대해 설명하시오.
+- [KVO 동작 방식에 대해 설명하시오.](https://hongssup.tistory.com/481)
+- [Delegates와 Notification 방식의 차이점에 대해 설명하시오.](https://hongssup.tistory.com/482)
 - 멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.
 - MVC 구조와 MVVM 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.
 
