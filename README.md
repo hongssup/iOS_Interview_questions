@@ -20,6 +20,10 @@ iOS 기술 면접 질문 정리<br><br>
 - [Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.](https://hongssup.tistory.com/495)
 - [Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.](https://hongssup.tistory.com/493)
 - [mutating 키워드에 대해 설명하시오.](https://hongssup.tistory.com/494)
+- 탈출 클로저에 대하여 설명하시오.
+- Extension에 대해 설명하시오. + Extension 내부에서 함수를 override할 수 있는지 설명하시오.
+- 접근 제어자 종류
+- Generic에 대해 설명하시오.
 
 ## iOS
 - [Bounds와 Frame의 차이점](https://hongssup.tistory.com/474)
