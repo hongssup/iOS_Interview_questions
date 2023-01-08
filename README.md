@@ -22,7 +22,7 @@ iOS 기술 면접 질문 정리<br><br>
 - [mutating 키워드에 대해 설명하시오.](https://hongssup.tistory.com/494)
 - 탈출 클로저에 대하여 설명하시오.
 - Extension에 대해 설명하시오. + Extension 내부에서 함수를 override할 수 있는지 설명하시오.
-- 접근 제어자 종류
+- [접근 제어자 종류](https://hongssup.tistory.com/334)
 - Generic에 대해 설명하시오.
 
 ## iOS
