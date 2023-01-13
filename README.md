@@ -38,7 +38,7 @@ Google Meet을 이용해 온라인으로 진행 중이며, 매주 토요일 오�
 - [mutating 키워드에 대해 설명하시오.](https://hongssup.tistory.com/494)
 
 7주차 (1/14)
-- 탈출 클로저에 대하여 설명하시오.
+- [탈출 클로저에 대하여 설명하시오.](https://hongssup.tistory.com/502)
 - [Extension에 대하여](https://hongssup.tistory.com/496)
 - [접근 제어자 종류](https://hongssup.tistory.com/334)
 - [Generic에 대해 설명하시오.](https://hongssup.tistory.com/500)
