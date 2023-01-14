@@ -20,3 +20,10 @@ Swift에서는 Collection Type을 복사해서 사용할 때, Value Type의 성�
 Swift 언어의 큰 특징 중 하나가 바로 프로토콜 지향 언어라는 것.<br>
 객체 지향 언어들은 공통 기능을 모듈화하기 위해 class의 상속을 이용하지만<br>
 Swift에서는 프로토콜을 활용하여 상속이 불가능한 struct enum 타입에서도 공통 기능을 모듈화하여 사용할 수 있도록 하였다.
+
+### Generics
+Generic은 Swift 의 가장 강력한 기능 중 하나로, Swift 표준 라이브러리의 대부분은 generic 으로 이루어져 있다.<br>
+흔히 사용하고 있는 배열과 딕셔너리가 바로 generic collection으로 제네릭의 대표적인 예이다.<br>
+타입을 특정하지 않고 함수나 타입을 구현할 수 있도록 하여, Generic을 사용하면 유연하고 재사용 가능한 코드를 작성할 수 있다.<br>
+제네릭을 정의할 때 타입 파라미터로는 placeholder type으로 <T>를 흔히 사용하며, 사용 시에 타입이 정해지면 실제 타입으로 대체된다.<br>
+ex) 제네릭 함수 : swap<T>, 제네릭 타입 : Array<Element>, 커스텀 Stack<Element>
