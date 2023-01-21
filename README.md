@@ -46,7 +46,7 @@ Google Meet을 이용해 온라인으로 진행 중이며, 매주 토요일 오�
 8주차 (1/21)
 - [Closure에 대하여 설명하시오.](https://hongssup.tistory.com/8)
 - [defer란 무엇인지 설명하시오.](https://hongssup.tistory.com/506)
-- property wrapper에 대해서 설명하시오.
+- [property wrapper에 대해서 설명하시오.](https://hongssup.tistory.com/507)
 - some 키워드에 대해 설명하시오.
 - Result 타입에 대해 설명하시오.
 - Codable에 대하여 설명하시오.
