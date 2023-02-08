@@ -62,5 +62,7 @@ Google Meet을 이용해 온라인으로 진행 중이며, 매주 토요일 오�
 
 ## iOS
 - [Bounds와 Frame의 차이점](https://hongssup.tistory.com/474)
+11주차 (2/11)
+- GCD
 
 <br><br>참고 : https://github.com/JeaSungLEE/iOSInterviewquestions
