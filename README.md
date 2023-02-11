@@ -50,21 +50,30 @@ Google Meet을 이용해 온라인으로 진행 중이며, 매주 토요일 오�
 - [some 키워드에 대해 설명하시오.](https://hongssup.tistory.com/509)
 - [Result 타입에 대해 설명하시오.](https://hongssup.tistory.com/510)
 - [Codable에 대하여 설명하시오.](https://hongssup.tistory.com/508)
+<br>
 
 ## RxSwift
 9주차 (1/27)
+<br><br>
 
 ## ARC
 10주차 (2/5)
 - [Automatic Reference Counting 이란?](https://hongssup.tistory.com/513)
 - [Strong / Weak / Unowned 참조 방식](https://hongssup.tistory.com/516)
 - [Strong Reference Cycle 이란? + 어떤 경우에 발생하는가](https://hongssup.tistory.com/515)
+<br>
+
+## Concurrent Programming 
+11주차 (2/11)
+- [동시성(Concurrent) 프로그래밍이란? + 왜 필요한가](https://hongssup.tistory.com/517)
+- [GCD란 무엇인가 + 종류와 특성](https://hongssup.tistory.com/340)
+- DispatchGroup (feat. DispatchWorkItem, DispatchSemaphore)
+- 동시성과 관련된 문제 및 해결방법
+<br>
 
 ## iOS
 - [Bounds와 Frame의 차이점](https://hongssup.tistory.com/474)<br>
 
-11주차 (2/11)
-- [GCD란? + 왜 사용하는가](https://hongssup.tistory.com/340)
-- Global Queue
+
 
 <br><br>참고 : https://github.com/JeaSungLEE/iOSInterviewquestions
