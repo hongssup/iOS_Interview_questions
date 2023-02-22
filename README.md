@@ -68,10 +68,10 @@ Google Meet을 이용해 온라인으로 진행 중이며, 매주 토요일 오�
 - [동시성(Concurrent) 프로그래밍이란? + 왜 필요한가](https://hongssup.tistory.com/517)
 - [GCD란 무엇인가 + 종류와 특성](https://hongssup.tistory.com/340)
 - DispatchGroup (feat. DispatchWorkItem, DispatchSemaphore)
-- 동시성과 관련된 문제 및 해결방법
+- [동시성과 관련된 문제 및 해결방법](https://hongssup.tistory.com/519)
 
 12주차 (2/19)
-- GCD와 Operation 차이
+- [GCD와 Operation 비교](https://hongssup.tistory.com/521)
 - OperationQueue
 - AsyncOperation
 <br>
